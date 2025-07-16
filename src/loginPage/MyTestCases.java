@@ -33,8 +33,9 @@ public class MyTestCases {
 		
 		WebElement FirstName = driver.findElement(By.xpath("//*[@id=\"AccountFrm_firstname\"]"));
 		
-		FirstName.sendKeys("ahmad");
-				
+		FirstName.sendKeys("Abdullah");
+		
+		//yarb
 	}
 	
 
